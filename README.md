@@ -6,10 +6,13 @@ This repo contains some of the CAD projects I have done in my free time using on
 Currently completed projects include:
 
 A 20 sided dice container for one set of Dungeon and Dragons dice
+
 A cookie cutter template that was made using a image 
+
 Oscilloscope clips to replace the broken ones my current scope
 
 I am currently working on:
 
 A replacement stove knob for my gran's cooker
+
 A spin down variant (life counter) of the D20 container
